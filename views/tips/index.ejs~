@@ -3,7 +3,6 @@
 <ul>
     <% for (var i in tips) { %>
         <% var tip = tips[i]; %>
-	<% var tipAuthor = tips[i].Author %>
 
         <li>
 
